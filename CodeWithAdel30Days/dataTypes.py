@@ -10,3 +10,5 @@ print( type(d))
 
 
 print("Hello,World")
+
+print("Total",a+b)
